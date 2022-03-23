@@ -1,0 +1,3 @@
+﻿  Threader.cpp
+F:\programs\Laba1s4\Laba1s4\Threader.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Laba1s4.vcxproj -> F:\programs\Laba1s4\x64\Debug\Laba1s4.exe
